@@ -1,0 +1,3 @@
+module GraphTheory {
+	exports GraphTheory;
+}

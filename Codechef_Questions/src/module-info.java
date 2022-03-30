@@ -1,0 +1,2 @@
+module Codechef_Questions {
+}
